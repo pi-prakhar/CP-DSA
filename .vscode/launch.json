@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "leetcode.Subsets.Solution",
+            "projectName": "CP_5ec0e2cb"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "CP_5ec0e2cb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
